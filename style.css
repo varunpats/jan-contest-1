@@ -1,0 +1,25 @@
+body {
+    padding: 20px 50px 30px;
+    margin: 0;
+    background-color: #1A1A1C;
+    font-family: Inter;
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+img {
+    height: 50px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1pt solid #fff;
+}
+
+td {
+    padding: 15px 0;
+}
